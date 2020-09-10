@@ -14,6 +14,10 @@
       {
         "source": "/pricing",
         "destination": "/pricing.html"
+      },
+      {
+        "source": "/stories",
+        "destination": "/stories.html"
       }
     ]
   }
